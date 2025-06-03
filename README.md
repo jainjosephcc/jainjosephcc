@@ -9,8 +9,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-Jain%20Joseph-blue?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="mailto:jainjosephcc@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jainjosephcc%40gmail.com-red?logo=gmail&logoColor=white&style=flat-square" alt="Email"/>
+  <a href="mailto:mail.jainjoseph@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mail.jainjoseph%40gmail.com-red?logo=gmail&logoColor=white&style=flat-square" alt="Email"/>
   </a>
   &nbsp;
   <a href="https://paperbotsolutions.com/">
